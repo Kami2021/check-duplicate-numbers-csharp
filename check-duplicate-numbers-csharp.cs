@@ -34,7 +34,7 @@ class Program
             else
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("❌ Invalid input! Please enter a valid integer.");
+                Console.WriteLine("Invalid input! Please enter a valid integer.");
                 Console.ResetColor();
                 continue; // Ask again
             }
@@ -44,3 +44,4 @@ class Program
         Console.WriteLine("Contains duplicate? " + result);
     }
 }
+
