@@ -124,6 +124,12 @@ The program follows these main steps:
 ## 💻 Example Run
 
 ```
+=========================================
+Duplicate Number Checker Program
+=========================================
+This program lets you enter a list of numbers,
+then checks if there are any duplicates in the list.
+
 Enter numbers one by one (type 'done' to finish'):
 1
 2
@@ -136,6 +142,12 @@ Contains duplicate? True
 If you enter something invalid:
 
 ```
+=========================================
+Duplicate Number Checker Program
+=========================================
+This program lets you enter a list of numbers,
+then checks if there are any duplicates in the list.
+
 Enter numbers one by one (type 'done' to finish'):
 5
 ten
